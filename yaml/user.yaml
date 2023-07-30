@@ -1,0 +1,16 @@
+firstname: John
+lastname: Doe
+hobbies:
+  - reading
+  - sports
+  - movies
+address:
+  street: 123 Tornado Alley
+  city: East Westville
+  state: KS
+  zip: 54321
+wallet:
+  - currency: USD
+    amount: 1000
+  - currency: EUR
+    amount: 200
